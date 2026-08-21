@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Reshma-1717/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Reshma-1717/dsa-practice/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
