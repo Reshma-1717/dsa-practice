@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Reshma-1717/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Reshma-1717/dsa-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## DP on Trees
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Reshma-1717/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Reshma-1717/dsa-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
