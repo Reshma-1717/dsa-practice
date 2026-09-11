@@ -96,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Reshma-1717/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Reshma-1717/dsa-practice/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Reshma-1717/dsa-practice/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Reshma-1717/dsa-practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
