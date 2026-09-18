@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Reshma-1717/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Reshma-1717/dsa-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Reshma-1717/dsa-practice/tree/master/0012-integer-to-roman) |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +116,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Reshma-1717/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
