@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Reshma-1717/dsa-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Reshma-1717/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Reshma-1717/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Reshma-1717/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Reshma-1717/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Reshma-1717/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Reshma-1717/dsa-practice/tree/master/0994-rotting-oranges) |
@@ -148,6 +151,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Reshma-1717/dsa-practice/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
