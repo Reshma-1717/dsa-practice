@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Reshma-1717/dsa-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Reshma-1717/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Reshma-1717/dsa-practice/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Reshma-1717/dsa-practice/tree/master/0994-rotting-oranges) |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
