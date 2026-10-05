@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Reshma-1717/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Reshma-1717/dsa-practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Reshma-1717/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -165,5 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Reshma-1717/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Reshma-1717/dsa-practice/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Reshma-1717/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
