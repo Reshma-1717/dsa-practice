@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Reshma-1717/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Reshma-1717/dsa-practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Reshma-1717/dsa-practice/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Reshma-1717/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Reshma-1717/dsa-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -172,4 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Reshma-1717/dsa-practice/tree/master/0078-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Reshma-1717/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Reshma-1717/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Reshma-1717/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Reshma-1717/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
